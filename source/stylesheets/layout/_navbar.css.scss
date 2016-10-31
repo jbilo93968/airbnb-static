@@ -40,12 +40,12 @@
 
 /* Navbar standard link */
 .navbar-wagon-link {
-  color: #616668;
+  color: white;
   font-size: 14px;
-}
-.navbar-wagon-link:hover {
+  &:hover {
   color: #da552f;
   text-decoration: none;
+  }
 }
 
 /* Navbar right button */
@@ -76,7 +76,7 @@
 
 .navbar-wagon-search-btn {
   line-height: 40px;
-  color: #E6E6E6;
+  color: white;
   border: none;
   background: transparent;
   position: absolute;
